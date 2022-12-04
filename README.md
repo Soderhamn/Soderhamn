@@ -14,4 +14,6 @@ http://studenter.miun.se/~maan2117/dt068g/moment3Projekt/
 - Jag har jobbat med design och bildredigering i följande projekt:
 http://studenter.miun.se/~maan2117/dt163g/Projekt/
 - Jag har även skapat enklare applikationer i programmeringsspråket C#.
-- Har haft möjligheten att testa på TypeScript.
+- Har testat på TypeScript.
+- Under utbildningen har jag använt SASS, har också använt olika CSS-ramverk: https://soderhamn.github.io/DT193G_moment1/index.html 
+- Jag har även utvecklat mot WordPress och skapat ett eget Wordpress-tema.
