@@ -20,4 +20,5 @@ http://studenter.miun.se/~maan2117/dt163g/Projekt/
 - Jag har även utvecklat mot WordPress och skapat ett eget Wordpress-tema.
 
 
+## Fritidsprojekt
 Utanför utbildningen har jag bland annat byggt https://veckokalender.com där jag försökt sökmotoroptimera sidan för nyckelord och fraser som exempelvis "vecka nu" och "vad är det för vecka idag?". I skrivande stund hamnar webbplatsen i genomsnitt på position 4,9 respektive 5 på Google. Jag är också inblandad i utveckingen av https://betfavor.com/ på min fritid.
