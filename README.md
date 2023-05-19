@@ -5,7 +5,7 @@ Jag heter Marcus Andersson och är student på Webbutvecklingsprogrammet på **M
 För att komma i kontakt med mig är det bara maila: maan2117@student.miun.se
 
 ## Vad har jag arbetat med för projekt under min utbildning?
-- Just nu håller jag på med webbutveckling i ASP.NET.
+- Jag har arbetat en del med Webbutvecling i ASP.NET och då stött på tekniker som Blazor och MVC.
 - Jag har skapat moderna JavaScriptbaserade webbapplikationer med VUE som frontendramverk och Laravel(PHP) som backend-teknologi. 
 - Har även använd NodeJS + Express som backendteknologi och MongoDB som databas.
 - Jag har jobbat med att kommunicera med API:er med hjälp av JavaScript. Ett exempel på det är att jag under det första året på Webbutvecklingsprogrammet skapade en webbapplikation som läser ut tablån från Sveriges Radios API:
@@ -17,7 +17,7 @@ http://studenter.miun.se/~maan2117/dt163g/Projekt/
 - Jag har även skapat enklare applikationer i programmeringsspråket C#.
 - Har testat på TypeScript.
 - Under utbildningen har jag använt SASS, har också använt olika CSS-ramverk: https://soderhamn.github.io/DT193G_moment1/index.html 
-- Jag har även utvecklat mot WordPress och skapat ett eget Wordpress-tema.
+- Jag har även utvecklat mot WordPress som CMS-plattform och har då bland annat skapat egna Wordpress-teman.
 
 
 ## Fritidsprojekt
