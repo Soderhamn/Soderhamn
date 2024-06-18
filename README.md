@@ -1,8 +1,6 @@
 # Välkommen!
 ## Vem är jag? 
-Jag heter Marcus Andersson och är student på Webbutvecklingsprogrammet på **MIUN**. Jag är intresserad av webbutveckling och arbetar för närvarande i språken C#, JavaScript, PHP, SQL, HTML, & CSS.
-
-För att komma i kontakt med mig är det bara maila: maan2117@student.miun.se
+Jag heter Marcus Andersson och jag arbetar som utvecklare på Rolf Nordic AB. Framförallt arbetar jag i dagsläget med apputveckling i React Native och med webbutveckling i ramverket React. Jag har tidigare studerat Webbutvecklingsprogrammet på **MIUN**. Förutom HTML, CSS och JavaScript så har jag jobbat en del i C#, PHP, SQL och TypeScript.
 
 ## Vad har jag arbetat med för projekt under min utbildning?
 - Jag har arbetat en del med Webbutvecling i ASP.NET och då stött på tekniker som Blazor och MVC.
@@ -21,4 +19,4 @@ http://studenter.miun.se/~maan2117/dt163g/Projekt/
 
 
 ## Fritidsprojekt
-Utanför utbildningen har jag bland annat byggt https://veckokalender.com där jag försökt sökmotoroptimera sidan för nyckelord och fraser som exempelvis "vecka nu" och "vad är det för vecka idag?". I skrivande stund hamnar webbplatsen i genomsnitt på position 4,9 respektive 5 på Google. Jag är också inblandad i utveckingen av https://betfavor.com/ på min fritid.
+Utanför utbildningen har jag bland annat byggt https://veckokalender.com där jag försökt sökmotoroptimera sidan för nyckelord och fraser som exempelvis "vecka nu" och "vad är det för vecka idag?". I skrivande stund hamnar webbplatsen i genomsnitt på position 4,9 respektive 5 på Google.
